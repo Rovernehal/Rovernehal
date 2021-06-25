@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rovernehal
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning lua launguage
-- 💞️ I’m looking to collaborate with ppl who can help me learn lua launguage
+-   I’m looking to collaborate with ppl who can help me learn lua launguage
 - 📫 How to reach me by my email
 
 <!---
